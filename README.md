@@ -226,3 +226,73 @@ Misc:
       --export-topology         export hwloc topology to a XML file and exit
       --title                   set custom console window title
       --no-title                disable setting console window title
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### tags
+crypto-mining
+bitcoin
+bitcoin-miner
+best-crypto-miner
+mining-bitcoin
+asic-miner
+asic
+bitcoin-mining
+crypto
+crypto-miner
+best-bitcoin-miner
+asic-bitcoin-miner
+bitcoin-mine
+btc-miner
+bitcoin-miners
+solo-miner
+solo-miner-bitcoin
+bitaxe-miner
+hash-key-binance-pool
+bitcoin
+miner
+mining
+bitcoin miner 
+bitcoin mining
+btc mining 
+best crypto miner
+mining bitcoin
+asic miner
+asic
+crypto
+crypto miner
+best bitcoin miner
+solo miner
